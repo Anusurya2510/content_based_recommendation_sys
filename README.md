@@ -2,6 +2,11 @@
 
 This project implements a simple movie recommendation system using collaborative filtering based on user ratings. The system recommends movies to a user based on their past ratings and the genres of the movies they liked.
 
+## Installation
+
+```bash
+pip install pandas numpy seaborn matplotlib scikit-learn
+```
 ## Dataset
 
 The dataset used in this project consists of two main files:
